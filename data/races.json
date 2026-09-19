@@ -1,0 +1,2734 @@
+[
+  {
+    "id": 1107,
+    "name": "Kawasaki Kinen",
+    "grade": "G1",
+    "track": "Kawasaki",
+    "surface": "Dirt",
+    "distance": 2100,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 2,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 1001,
+    "name": "February Stakes",
+    "grade": "G1",
+    "track": "Tokyo",
+    "surface": "Dirt",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 2,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "name": "Osaka Hai",
+    "grade": "G1",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 3,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "name": "Takamatsunomiya Kinen",
+    "grade": "G1",
+    "track": "Chukyo",
+    "surface": "Turf",
+    "distance": 1200,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 3,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "name": "Oka Sho",
+    "grade": "G1",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 4,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "name": "Satsuki Sho",
+    "grade": "G1",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 4,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 1006,
+    "name": "Tenno Sho (Spring)",
+    "grade": "G1",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 3200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 4,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1007,
+    "name": "NHK Mile Cup",
+    "grade": "G1",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 5,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 1109,
+    "name": "Kashiwa Kinen",
+    "grade": "G1",
+    "track": "Funabashi",
+    "surface": "Dirt",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 5,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "name": "Victoria Mile",
+    "grade": "G1",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 5,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 1009,
+    "name": "Japanese Oaks",
+    "grade": "G1",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 2400,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 5,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1010,
+    "name": "Tokyo Yushun (Japanese Derby)",
+    "grade": "G1",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 2400,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 5,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1011,
+    "name": "Yasuda Kinen",
+    "grade": "G1",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 6,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 6,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 1012,
+    "name": "Takarazuka Kinen",
+    "grade": "G1",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 2200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 6,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 6,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1101,
+    "name": "Teio Sho",
+    "grade": "G1",
+    "track": "Oi",
+    "surface": "Dirt",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 6,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1102,
+    "name": "Japan Dirt Derby",
+    "grade": "G1",
+    "track": "Oi",
+    "surface": "Dirt",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 7,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 1013,
+    "name": "Sprinters Stakes",
+    "grade": "G1",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 1200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 9,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 9,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1110,
+    "name": "M.C. Nambu Hai",
+    "grade": "G1",
+    "track": "Morioka",
+    "surface": "Dirt",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 10,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 10,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 1015,
+    "name": "Kikuka Sho",
+    "grade": "G1",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 3000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 10,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1014,
+    "name": "Shuka Sho",
+    "grade": "G1",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 10,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1016,
+    "name": "Tenno Sho (Autumn)",
+    "grade": "G1",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 10,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 10,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1105,
+    "name": "JBC Classic",
+    "grade": "G1",
+    "track": "Oi",
+    "surface": "Dirt",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 11,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 11,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 1103,
+    "name": "JBC Ladies’ Classic",
+    "grade": "G1",
+    "track": "Oi",
+    "surface": "Dirt",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 11,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 11,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 1104,
+    "name": "JBC Sprint",
+    "grade": "G1",
+    "track": "Oi",
+    "surface": "Dirt",
+    "distance": 1200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 11,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 11,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 1017,
+    "name": "Queen Elizabeth II Cup",
+    "grade": "G1",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 2200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 11,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 11,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 1019,
+    "name": "Japan Cup",
+    "grade": "G1",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 2400,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 11,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 11,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1018,
+    "name": "Mile Championship",
+    "grade": "G1",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 11,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 11,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1022,
+    "name": "Asahi Hai Futurity Stakes",
+    "grade": "G1",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 1,
+        "month": 12,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 1021,
+    "name": "Hanshin Juvenile Fillies",
+    "grade": "G1",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 1,
+        "month": 12,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 1020,
+    "name": "Champions Cup",
+    "grade": "G1",
+    "track": "Chukyo",
+    "surface": "Dirt",
+    "distance": 1800,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 12,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 12,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "name": "Hopeful Stakes",
+    "grade": "G1",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 1,
+        "month": 12,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1108,
+    "name": "Zen-Nippon Junior Yushun",
+    "grade": "G1",
+    "track": "Kawasaki",
+    "surface": "Dirt",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 1,
+        "month": 12,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1023,
+    "name": "Arima Kinen",
+    "grade": "G1",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 2500,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 12,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 12,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 1106,
+    "name": "Tokyo Daishoten",
+    "grade": "G1",
+    "track": "Oi",
+    "surface": "Dirt",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 12,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 12,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2001,
+    "name": "Nikkei Shinshun Hai",
+    "grade": "G2",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 2400,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 1,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2003,
+    "name": "American JCC",
+    "grade": "G2",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 2200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 1,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2002,
+    "name": "Tokai Stakes",
+    "grade": "G2",
+    "track": "Chukyo",
+    "surface": "Dirt",
+    "distance": 1800,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 1,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2004,
+    "name": "Kyoto Kinen",
+    "grade": "G2",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 2200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 2,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2005,
+    "name": "Nakayama Kinen",
+    "grade": "G2",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 2,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2008,
+    "name": "Fillies' Revue",
+    "grade": "G2",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 1400,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 3,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3018,
+    "name": "Tulip Sho",
+    "grade": "G2",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 3,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2006,
+    "name": "Yayoi Sho",
+    "grade": "G2",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 3,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2038,
+    "name": "Empress Hai",
+    "grade": "G2",
+    "track": "Kawasaki",
+    "surface": "Dirt",
+    "distance": 2100,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 3,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2007,
+    "name": "Kinko Sho",
+    "grade": "G2",
+    "track": "Chukyo",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 3,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2010,
+    "name": "Spring Stakes",
+    "grade": "G2",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 3,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2040,
+    "name": "Diolite Kinen",
+    "grade": "G2",
+    "track": "Funabashi",
+    "surface": "Dirt",
+    "distance": 2400,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 3,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2009,
+    "name": "Hanshin Daishoten",
+    "grade": "G2",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 3000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 3,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2011,
+    "name": "Nikkei Sho",
+    "grade": "G2",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 2500,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 3,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2013,
+    "name": "New Zealand Trophy",
+    "grade": "G2",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 4,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2012,
+    "name": "Hanshin Umamusume Stakes",
+    "grade": "G2",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 4,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2016,
+    "name": "Aoba Sho",
+    "grade": "G2",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 2400,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 4,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2015,
+    "name": "Flora Stakes",
+    "grade": "G2",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 4,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2014,
+    "name": "Milers Cup",
+    "grade": "G2",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 4,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2017,
+    "name": "Kyoto Shimbun Hai",
+    "grade": "G2",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 2200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 5,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2018,
+    "name": "Keio Hai Spring Cup",
+    "grade": "G2",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 1400,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 5,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2019,
+    "name": "Meguro Kinen",
+    "grade": "G2",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 2500,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 5,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2039,
+    "name": "Kanto Oaks",
+    "grade": "G2",
+    "track": "Kawasaki",
+    "surface": "Dirt",
+    "distance": 2100,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 6,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2020,
+    "name": "Sapporo Kinen",
+    "grade": "G2",
+    "track": "Sapporo",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 8,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 8,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2021,
+    "name": "Centaur Stakes",
+    "grade": "G2",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 1200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 9,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 9,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2022,
+    "name": "Rose Stakes",
+    "grade": "G2",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 9,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2025,
+    "name": "All Comers",
+    "grade": "G2",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 2200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 9,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 9,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2024,
+    "name": "Kobe Shimbun Hai",
+    "grade": "G2",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 2400,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 9,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2041,
+    "name": "Sazanka TV Hai",
+    "grade": "G2",
+    "track": "Funabashi",
+    "surface": "Dirt",
+    "distance": 1800,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 9,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 9,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2023,
+    "name": "St. Lite Kinen",
+    "grade": "G2",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 2200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 9,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2028,
+    "name": "Fuchu Umamusume Stakes",
+    "grade": "G2",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 10,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 10,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2027,
+    "name": "Kyoto Daishoten",
+    "grade": "G2",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 2400,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 10,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 10,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2036,
+    "name": "Ladies' Prelude",
+    "grade": "G2",
+    "track": "Oi",
+    "surface": "Dirt",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 10,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 10,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2026,
+    "name": "Mainichi Okan",
+    "grade": "G2",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 10,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 10,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2037,
+    "name": "Tokyo Hai",
+    "grade": "G2",
+    "track": "Oi",
+    "surface": "Dirt",
+    "distance": 1200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 10,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 10,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3058,
+    "name": "Fuji Stakes",
+    "grade": "G2",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 10,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 10,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2029,
+    "name": "Swan Stakes",
+    "grade": "G2",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 1400,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 10,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 10,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 2032,
+    "name": "Daily Hai Junior Stakes",
+    "grade": "G2",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 1,
+        "month": 11,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2030,
+    "name": "Keio Hai Junior Stakes",
+    "grade": "G2",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 1400,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 1,
+        "month": 11,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2031,
+    "name": "Copa Republica Argentina",
+    "grade": "G2",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 2500,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 11,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 11,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2033,
+    "name": "Stayers Stakes",
+    "grade": "G2",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 3600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 12,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 12,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 2034,
+    "name": "Hanshin Cup",
+    "grade": "G2",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 1400,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 12,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 12,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3004,
+    "name": "Fairy Stakes",
+    "grade": "G3",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 1,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3006,
+    "name": "Keisei Hai",
+    "grade": "G3",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 1,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3003,
+    "name": "Shinzan Kinen",
+    "grade": "G3",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 1,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3005,
+    "name": "Aichi Hai",
+    "grade": "G3",
+    "track": "Chukyo",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 1,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3001,
+    "name": "Kyoto Kimpai",
+    "grade": "G3",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 1,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3002,
+    "name": "Nakayama Kimpai",
+    "grade": "G3",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 1,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3008,
+    "name": "Negishi Stakes",
+    "grade": "G3",
+    "track": "Tokyo",
+    "surface": "Dirt",
+    "distance": 1400,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 1,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3007,
+    "name": "Silk Road Stakes",
+    "grade": "G3",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 1200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 1,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3071,
+    "name": "TCK Jo-o Hai",
+    "grade": "G3",
+    "track": "Oi",
+    "surface": "Dirt",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 1,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3009,
+    "name": "Kisaragi Sho",
+    "grade": "G3",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 2,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3012,
+    "name": "Kyodo News Hai",
+    "grade": "G3",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 2,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3011,
+    "name": "Queen Cup",
+    "grade": "G3",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 2,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3010,
+    "name": "Tokyo Shimbun Hai",
+    "grade": "G3",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 2,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3014,
+    "name": "Diamond Stakes",
+    "grade": "G3",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 3400,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 2,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3017,
+    "name": "Hankyu Hai",
+    "grade": "G3",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 1400,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 2,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3015,
+    "name": "Kokura Daishoten",
+    "grade": "G3",
+    "track": "Kokura",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 2,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3013,
+    "name": "Kyoto Umamusume Stakes",
+    "grade": "G3",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 1400,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 2,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3020,
+    "name": "Nakayama Umamusume Stakes",
+    "grade": "G3",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 3,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3019,
+    "name": "Ocean Stakes",
+    "grade": "G3",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 1200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 3,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3021,
+    "name": "Falcon Stakes",
+    "grade": "G3",
+    "track": "Chukyo",
+    "surface": "Turf",
+    "distance": 1400,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 3,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3022,
+    "name": "Flower Cup",
+    "grade": "G3",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 3,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3023,
+    "name": "Mainichi Hai",
+    "grade": "G3",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 3,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3024,
+    "name": "March Stakes",
+    "grade": "G3",
+    "track": "Nakayama",
+    "surface": "Dirt",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 3,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3016,
+    "name": "Arlington Cup",
+    "grade": "G3",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 4,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3074,
+    "name": "Marine Cup",
+    "grade": "G3",
+    "track": "Funabashi",
+    "surface": "Dirt",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 4,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 4,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3026,
+    "name": "Antares Stakes",
+    "grade": "G3",
+    "track": "Hanshin",
+    "surface": "Dirt",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 4,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3025,
+    "name": "Lord Derby Challenge Trophy",
+    "grade": "G3",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 4,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3027,
+    "name": "Fukushima Umamusume Stakes",
+    "grade": "G3",
+    "track": "Fukushima",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 4,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3072,
+    "name": "Tokyo Sprint",
+    "grade": "G3",
+    "track": "Oi",
+    "surface": "Dirt",
+    "distance": 1200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 4,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3028,
+    "name": "Niigata Daishoten",
+    "grade": "G3",
+    "track": "Niigata",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 5,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 4050,
+    "name": "Aoi Stakes",
+    "grade": "G3",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 1200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 5,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3029,
+    "name": "Heian Stakes",
+    "grade": "G3",
+    "track": "Kyoto",
+    "surface": "Dirt",
+    "distance": 1900,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 3,
+        "month": 5,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3032,
+    "name": "Epsom Cup",
+    "grade": "G3",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 6,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 6,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3031,
+    "name": "Mermaid Stakes",
+    "grade": "G3",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 6,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 6,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3030,
+    "name": "Naruo Kinen",
+    "grade": "G3",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 6,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 6,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3034,
+    "name": "Hakodate Sprint Stakes",
+    "grade": "G3",
+    "track": "Hakodate",
+    "surface": "Turf",
+    "distance": 1200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 6,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 6,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3033,
+    "name": "Unicorn Stakes",
+    "grade": "G3",
+    "track": "Tokyo",
+    "surface": "Dirt",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 6,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3035,
+    "name": "CBC Sho",
+    "grade": "G3",
+    "track": "Chukyo",
+    "surface": "Turf",
+    "distance": 1200,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 7,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 7,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3039,
+    "name": "Hakodate Kinen",
+    "grade": "G3",
+    "track": "Hakodate",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 7,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 7,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3037,
+    "name": "Procyon Stakes",
+    "grade": "G3",
+    "track": "Chukyo",
+    "surface": "Dirt",
+    "distance": 1400,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 7,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 7,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3036,
+    "name": "Radio Nikkei Sho",
+    "grade": "G3",
+    "track": "Fukushima",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 7,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3073,
+    "name": "Sparking Lady Cup",
+    "grade": "G3",
+    "track": "Kawasaki",
+    "surface": "Dirt",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 7,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 7,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3038,
+    "name": "Tanabata Sho",
+    "grade": "G3",
+    "track": "Fukushima",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 7,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 7,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3041,
+    "name": "Hakodate Junior Stakes",
+    "grade": "G3",
+    "track": "Hakodate",
+    "surface": "Turf",
+    "distance": 1200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 1,
+        "month": 7,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3040,
+    "name": "Chukyo Kinen",
+    "grade": "G3",
+    "track": "Chukyo",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 7,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 7,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3042,
+    "name": "Ibis Summer Dash",
+    "grade": "G3",
+    "track": "Niigata",
+    "surface": "Turf",
+    "distance": 1000,
+    "direction": null,
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 7,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 7,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3076,
+    "name": "Mercury Cup",
+    "grade": "G3",
+    "track": "Morioka",
+    "surface": "Dirt",
+    "distance": 2000,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 7,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 7,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3043,
+    "name": "Queen Stakes",
+    "grade": "G3",
+    "track": "Sapporo",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 7,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 7,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3047,
+    "name": "Elm Stakes",
+    "grade": "G3",
+    "track": "Sapporo",
+    "surface": "Dirt",
+    "distance": 1700,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 8,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 8,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3044,
+    "name": "Kokura Kinen",
+    "grade": "G3",
+    "track": "Kokura",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 8,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 8,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3045,
+    "name": "Leopard Stakes",
+    "grade": "G3",
+    "track": "Niigata",
+    "surface": "Dirt",
+    "distance": 1800,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 8,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3046,
+    "name": "Sekiya Kinen",
+    "grade": "G3",
+    "track": "Niigata",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 8,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 8,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3049,
+    "name": "Niigata Junior Stakes",
+    "grade": "G3",
+    "track": "Niigata",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 1,
+        "month": 8,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3077,
+    "name": "Cluster Cup",
+    "grade": "G3",
+    "track": "Morioka",
+    "surface": "Dirt",
+    "distance": 1200,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 8,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 8,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3050,
+    "name": "Keeneland Cup",
+    "grade": "G3",
+    "track": "Sapporo",
+    "surface": "Turf",
+    "distance": 1200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 8,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 8,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3048,
+    "name": "Kitakyushu Kinen",
+    "grade": "G3",
+    "track": "Kokura",
+    "surface": "Turf",
+    "distance": 1200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 8,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 8,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3052,
+    "name": "Kokura Junior Stakes",
+    "grade": "G3",
+    "track": "Kokura",
+    "surface": "Turf",
+    "distance": 1200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 1,
+        "month": 9,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3051,
+    "name": "Sapporo Junior Stakes",
+    "grade": "G3",
+    "track": "Sapporo",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 1,
+        "month": 9,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3055,
+    "name": "Keisei Hai Autumn Handicap",
+    "grade": "G3",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 9,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 9,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3053,
+    "name": "Niigata Kinen",
+    "grade": "G3",
+    "track": "Niigata",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 9,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 9,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3054,
+    "name": "Shion Stakes",
+    "grade": "G3",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 9,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3056,
+    "name": "Sirius Stakes",
+    "grade": "G3",
+    "track": "Hanshin",
+    "surface": "Dirt",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 9,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 9,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3057,
+    "name": "Saudi Arabia Royal Cup",
+    "grade": "G3",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 1,
+        "month": 10,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3059,
+    "name": "Artemis Stakes",
+    "grade": "G3",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 1,
+        "month": 10,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3060,
+    "name": "Fantasy Stakes",
+    "grade": "G3",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 1400,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 1,
+        "month": 11,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3063,
+    "name": "Fukushima Kinen",
+    "grade": "G3",
+    "track": "Fukushima",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 11,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 11,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3061,
+    "name": "Miyako Stakes",
+    "grade": "G3",
+    "track": "Kyoto",
+    "surface": "Dirt",
+    "distance": 1800,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 11,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 11,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3062,
+    "name": "Musashino Stakes",
+    "grade": "G3",
+    "track": "Tokyo",
+    "surface": "Dirt",
+    "distance": 1600,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 11,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 11,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3065,
+    "name": "Kyoto Junior Stakes",
+    "grade": "G3",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 1,
+        "month": 11,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3064,
+    "name": "Tokyo Sports Hai Junior Stakes",
+    "grade": "G3",
+    "track": "Tokyo",
+    "surface": "Turf",
+    "distance": 1800,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 1,
+        "month": 11,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3066,
+    "name": "Keihan Hai",
+    "grade": "G3",
+    "track": "Kyoto",
+    "surface": "Turf",
+    "distance": 1200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 11,
+        "half": 2
+      },
+      {
+        "year": 3,
+        "month": 11,
+        "half": 2
+      }
+    ]
+  },
+  {
+    "id": 3069,
+    "name": "Capella Stakes",
+    "grade": "G3",
+    "track": "Nakayama",
+    "surface": "Dirt",
+    "distance": 1200,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 12,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 12,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3067,
+    "name": "Challenge Cup",
+    "grade": "G3",
+    "track": "Hanshin",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 12,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 12,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3068,
+    "name": "Chunichi Shimbun Hai",
+    "grade": "G3",
+    "track": "Chukyo",
+    "surface": "Turf",
+    "distance": 2000,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 12,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 12,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3075,
+    "name": "Queen Sho",
+    "grade": "G3",
+    "track": "Funabashi",
+    "surface": "Dirt",
+    "distance": 1800,
+    "direction": "Left",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 12,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 12,
+        "half": 1
+      }
+    ]
+  },
+  {
+    "id": 3070,
+    "name": "Turquoise Stakes",
+    "grade": "G3",
+    "track": "Nakayama",
+    "surface": "Turf",
+    "distance": 1600,
+    "direction": "Right",
+    "occurrences": [
+      {
+        "year": 2,
+        "month": 12,
+        "half": 1
+      },
+      {
+        "year": 3,
+        "month": 12,
+        "half": 1
+      }
+    ]
+  }
+]

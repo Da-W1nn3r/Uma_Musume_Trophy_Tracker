@@ -1,0 +1,472 @@
+:root {
+  --bg: #f4f5f7;
+  --panel: #ffffff;
+  --border: #d8dbe0;
+  --text: #1c1f26;
+  --text-dim: #6b7280;
+  --accent: #3b5bdb;
+  --tile-empty: #eceef1;
+  --g1: #c9962b;
+  --g1-bg: #fdf3dd;
+  --g2: #6b7280;
+  --g2-bg: #eef0f2;
+  --g3: #8b5e3c;
+  --g3-bg: #f2e8de;
+  --done-bg: #e6f6ea;
+  --done-text: #2f8a4b;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #15171c;
+    --panel: #1e2128;
+    --border: #33363f;
+    --text: #e7e9ee;
+    --text-dim: #9aa0ab;
+    --accent: #7b93ff;
+    --tile-empty: #1a1c22;
+    --g1-bg: #3a2f10;
+    --g2-bg: #23262c;
+    --g3-bg: #2e2216;
+    --done-bg: #12291a;
+    --done-text: #6cd98b;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 16px;
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 14px;
+}
+
+.app-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.app-header h1 {
+  font-size: 1.3rem;
+  margin: 0;
+}
+
+.progress {
+  color: var(--text-dim);
+  font-size: 0.9rem;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 16px;
+  padding: 10px 12px;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.view-toggle {
+  display: flex;
+  gap: 4px;
+  background: var(--tile-empty);
+  border-radius: 8px;
+  padding: 3px;
+}
+
+.view-btn {
+  border: none;
+  background: transparent;
+  color: var(--text-dim);
+  padding: 6px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.view-btn.active {
+  background: var(--accent);
+  color: white;
+}
+
+.search-wrap {
+  flex: 1 1 220px;
+  min-width: 160px;
+}
+
+#search-input {
+  width: 100%;
+  padding: 7px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text);
+  font-size: 0.9rem;
+}
+
+.filters {
+  display: flex;
+  gap: 10px;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+  flex-wrap: wrap;
+}
+
+.filters label {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+}
+
+.save-controls {
+  display: flex;
+  gap: 8px;
+}
+
+.save-controls button {
+  padding: 6px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--text);
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.save-controls button:hover {
+  border-color: var(--accent);
+}
+
+.hidden { display: none !important; }
+
+.year-tabs {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.year-tab {
+  padding: 7px 16px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--text);
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.year-tab.active {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+}
+
+.calendar-tile {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 8px;
+  min-height: 90px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.calendar-tile.empty {
+  background: var(--tile-empty);
+}
+
+.tile-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.tile-races {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.race-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  cursor: pointer;
+  padding: 4px 6px;
+  border-radius: 6px;
+}
+
+.race-entry.tile {
+  font-size: 0.78rem;
+}
+
+.race-entry.list {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  padding: 8px 10px;
+  margin-bottom: 6px;
+}
+
+.race-entry:hover {
+  background: var(--tile-empty);
+}
+
+.race-entry.completed .race-name {
+  text-decoration: line-through;
+  color: var(--text-dim);
+}
+
+.race-entry.list.completed {
+  background: var(--done-bg);
+}
+
+.race-entry input[type="checkbox"] {
+  margin-top: 2px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+.grade-badge {
+  font-size: 0.68rem;
+  font-weight: 700;
+  padding: 1px 5px;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+.grade-badge.grade-G1 { background: var(--g1-bg); color: var(--g1); }
+.grade-badge.grade-G2 { background: var(--g2-bg); color: var(--g2); }
+.grade-badge.grade-G3 { background: var(--g3-bg); color: var(--g3); }
+
+.race-info {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.race-name {
+  font-weight: 500;
+  line-height: 1.25;
+}
+
+.race-meta {
+  font-size: 0.75rem;
+  color: var(--text-dim);
+}
+
+.list-container {
+  max-width: 720px;
+}
+
+.no-results {
+  color: var(--text-dim);
+  padding: 20px 0;
+}
+
+@media (max-width: 900px) {
+  .calendar-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 560px) {
+  .calendar-grid { grid-template-columns: 1fr; }
+  .controls { flex-direction: column; align-items: stretch; }
+}
+
+.save-controls button.danger {
+  color: #c0392b;
+  border-color: #c0392b;
+}
+
+.save-controls button.danger:hover {
+  background: #c0392b;
+  color: white;
+}
+
+.trophy-tabs {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.trophy-tab {
+  padding: 7px 16px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--text);
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.trophy-tab.active {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
+
+.trophy-pager {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 14px;
+}
+
+.page-nav-btn {
+  border: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--text);
+  border-radius: 8px;
+  padding: 6px 14px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.page-nav-btn:hover:not(:disabled) {
+  border-color: var(--accent);
+}
+
+.page-nav-btn:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.trophy-page-label {
+  color: var(--text-dim);
+  font-size: 0.9rem;
+  min-width: 90px;
+  text-align: center;
+}
+
+.trophy-page {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.trophy-slot {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  min-height: 130px;
+  padding: 14px 10px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  cursor: pointer;
+  text-align: center;
+  position: relative;
+}
+
+.trophy-slot.empty {
+  background: var(--tile-empty);
+  border-style: dashed;
+  cursor: default;
+}
+
+.trophy-medal {
+  font-size: 2rem;
+  filter: grayscale(1) opacity(0.35);
+}
+
+.trophy-slot.completed .trophy-medal {
+  filter: none;
+}
+
+.trophy-slot input[type="checkbox"] {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  cursor: pointer;
+}
+
+.trophy-name {
+  font-size: 0.82rem;
+  font-weight: 500;
+  line-height: 1.25;
+}
+
+.trophy-slot.completed {
+  background: var(--done-bg);
+  border-color: var(--done-text);
+}
+
+.trophy-slot.completed .trophy-name {
+  color: var(--done-text);
+}
+
+.trophy-slot.grade-G1:not(.completed) { border-top: 3px solid var(--g1); }
+.trophy-slot.grade-G2:not(.completed) { border-top: 3px solid var(--g2); }
+.trophy-slot.grade-G3:not(.completed) { border-top: 3px solid var(--g3); }
+
+@media (max-width: 560px) {
+  .trophy-page { grid-template-columns: repeat(2, 1fr); }
+}
+
+.celebration-overlay {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 999;
+}
+
+.celebration-banner {
+  margin-top: 18vh;
+  padding: 18px 32px;
+  background: var(--panel);
+  border: 2px solid var(--g1);
+  border-radius: 16px;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--g1);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
+  animation: banner-pop 0.5s ease-out;
+}
+
+@keyframes banner-pop {
+  0% { transform: scale(0.6); opacity: 0; }
+  70% { transform: scale(1.08); opacity: 1; }
+  100% { transform: scale(1); }
+}
+
+.confetti-piece {
+  position: absolute;
+  top: -20px;
+  width: 8px;
+  height: 14px;
+  opacity: 0.9;
+  animation-name: confetti-fall;
+  animation-timing-function: ease-in;
+  animation-fill-mode: forwards;
+}
+
+@keyframes confetti-fall {
+  0% { transform: translateY(0) rotate(0deg); opacity: 1; }
+  100% { transform: translateY(105vh) rotate(600deg); opacity: 0.6; }
+}
