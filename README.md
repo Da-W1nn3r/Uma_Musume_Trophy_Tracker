@@ -31,6 +31,34 @@ Your checklist progress is saved automatically to the browser's
 Use the **Export**/**Import** buttons to back up or transfer your
 progress as a JSON file, and **Clear** to reset it.
 
+## Importing from game screenshots
+
+**Scan screenshots** reads in-game Trophy Room screenshots and ticks off
+the trophies you've already won. Take one screenshot per page; crops are
+fine as long as the row of page dots under the shelves is visible. Pick
+any number at once, review the detections (click a trophy to correct
+it), then **Apply**.
+
+Everything runs in the browser (`trophy-cv.js`, plain canvas pixel
+analysis, no ML or uploads):
+
+1. The green page dot gives the page index (G1 → G2 → G3 → EX), and the
+   dot spacing gives the screenshot's scale.
+2. The 3×5 slot grid is placed relative to the dot row.
+3. A slot counts as won if its trophy area contains lit gold/silver
+   pixels; unwon trophies are dark silhouettes.
+
+EX pages are recognised but skipped, since the app doesn't track them.
+
+To check detection accuracy against the labelled screenshots in `CV/`:
+
+```bash
+node tools/test-cv.js            # Node, using a built-in PNG decoder
+```
+
+`tools/browser-test.html` runs the same check through the real browser
+canvas path (serve the repo root and open it).
+
 ## Refreshing race data
 
 `data/races.json` and `data/trophy-room.json` are generated files, not

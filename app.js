@@ -72,6 +72,7 @@ async function init() {
   });
   document.getElementById('import-file').addEventListener('change', importChecklist);
   document.getElementById('clear-btn').addEventListener('click', clearChecklist);
+  initScanner();
 }
 
 function loadCompleted() {
