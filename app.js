@@ -329,7 +329,7 @@ function buildRaceEntry(race, mode) {
   } else {
     const meta = document.createElement('span');
     meta.className = 'race-meta';
-    meta.textContent = `${race.track} · ${race.distance}m`;
+    meta.textContent = `${race.track} · ${race.distance}m · ${race.surface}`;
     info.appendChild(meta);
   }
 
