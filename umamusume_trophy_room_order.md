@@ -90,20 +90,20 @@
 ### **Page 4**
 | Race 1 | Race 2 | Race 3 |
 | :---: | :---: | :---: |
-| Musashino S. | Fukushima Kinen | Tokyo Sports Hai Junior S. |
-| Kyoto Junior S. | Keihan Hai | Challenge C. |
-| Chunichi Shimbun Hai | Capella S. | Turquoise S. |
-| TCK Jo-o Hai | Tokyo Sprint | Sparkling Lady Cup |
-| Marine Cup | Queen Sho | Mercury Cup |
-
-### **Page 5**
-| Race 1 | Race 2 | Race 3 |
-| :---: | :---: | :---: |
 | Sekiya Kinen | Elm S. | Kitakyushu Kinen |
 | Niigata Junior S. | Keeneland C. | Sapporo Junior S. |
 | Kokura Junior S. | Niigata Kinen | Shion S. |
 | Keisei Hai A.H. | Sirius S. | Saudi Arabia R.C. |
 | Artemis S. | Fantasy S. | Miyako S. |
+
+### **Page 5**
+| Race 1 | Race 2 | Race 3 |
+| :---: | :---: | :---: |
+| Musashino S. | Fukushima Kinen | Tokyo Sports Hai Junior S. |
+| Kyoto Junior S. | Keihan Hai | Challenge C. |
+| Chunichi Shimbun Hai | Capella S. | Turquoise S. |
+| TCK Jo-o Hai | Tokyo Sprint | Sparkling Lady Cup |
+| Marine Cup | Queen Sho | Mercury Cup |
 
 ### **Page 6**
 | Race 1 | Race 2 | Race 3 |

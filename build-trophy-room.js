@@ -84,18 +84,18 @@ const pages = [
     id('Queen Stakes'), id('Kokura Kinen'), id('Leopard Stakes'),
   ],
   [
-    id('Musashino Stakes'), id('Fukushima Kinen'), id('Tokyo Sports Hai Junior Stakes'),
-    id('Kyoto Junior Stakes'), id('Keihan Hai'), id('Challenge Cup'),
-    id('Chunichi Shimbun Hai'), id('Capella Stakes'), id('Turquoise Stakes'),
-    id('TCK Jo-o Hai'), id('Tokyo Sprint'), id('Sparking Lady Cup'),
-    id('Marine Cup'), id('Queen Sho'), id('Mercury Cup'),
-  ],
-  [
     id('Sekiya Kinen'), id('Elm Stakes'), id('Kitakyushu Kinen'),
     id('Niigata Junior Stakes'), id('Keeneland Cup'), id('Sapporo Junior Stakes'),
     id('Kokura Junior Stakes'), id('Niigata Kinen'), id('Shion Stakes'),
     id('Keisei Hai Autumn Handicap'), id('Sirius Stakes'), id('Saudi Arabia Royal Cup'),
     id('Artemis Stakes'), id('Fantasy Stakes'), id('Miyako Stakes'),
+  ],
+  [
+    id('Musashino Stakes'), id('Fukushima Kinen'), id('Tokyo Sports Hai Junior Stakes'),
+    id('Kyoto Junior Stakes'), id('Keihan Hai'), id('Challenge Cup'),
+    id('Chunichi Shimbun Hai'), id('Capella Stakes'), id('Turquoise Stakes'),
+    id('TCK Jo-o Hai'), id('Tokyo Sprint'), id('Sparking Lady Cup'),
+    id('Marine Cup'), id('Queen Sho'), id('Mercury Cup'),
   ],
   [
     id('Cluster Cup'), null, null,
